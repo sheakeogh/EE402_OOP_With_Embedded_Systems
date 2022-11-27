@@ -1,3 +1,2 @@
-## EE402 Object Oriented Programming with Embedded Systems
+The answers for the 2019/2020 Exam for EE402 Object Oriented Programming with Embedded Systems
 
-A repository of code for the EE402 course. This repository contains code from Tutorials, Assignments, and Past Papers.
